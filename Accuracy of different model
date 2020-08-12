@@ -1,0 +1,6 @@
+Accuracy of different model
+
+LinearRegression(): 0.9999741736933903
+DecisionTreeRegressor(): 1.0
+RandomForestRegressor(): 0.9376349327947628
+KNeighborsRegressor(): 0.5958054182046104
